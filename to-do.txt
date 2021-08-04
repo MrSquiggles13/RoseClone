@@ -1,0 +1,7 @@
+captcha
+
+short text and button to click when cliked welcome appears *done
+
+ban all links except ones i choose
+
+button
