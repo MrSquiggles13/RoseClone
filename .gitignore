@@ -1,5 +1,5 @@
 *.json
 *.session
-*.sesion-journal
+*.session-journal
 *.log
 *.env
